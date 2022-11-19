@@ -1,0 +1,200 @@
+employment contract
+Between the
+Labor Digital Ltd
+Wiesenhüttenplatz 25
+D – 60329 Frankfurt am Main
+- Employer -
+and
+Mr
+Navin Ajit Dhote
+xxx
+Riga, Latvia
+- worker -
+is agreed as follows:
+
+§ 1 Legal framework and place of work
+(1) The employment relationship begins on November 1st, 2022.
+(2) The place of work is Frankfurt am Main. If necessary, the employee can also work at other locations
+used by the company or by customers at other locations and is in connection with
+obliged to make business trips in Germany and abroad to carry out their work.
+
+§ 2 Activity
+(1) The employee is hired as a senior full stack developer and for the following work
+deployed:
+• Design and development of masks, databases and business logic
+• Development of integration, especially via web services (including SOAP)
+• Design, development and customization of software according to requirements
+of Labor Digital's customers
+• Checks and tests of the concepts and the developed software
+(2) The employee undertakes to also carry out other equivalent and reasonable work,
+which are not associated with a reduction in wages.
+
+§ 3 contract term
+The employment relationship is concluded for an indefinite period. The first six months are considered a probationary period.
+During this time, the employment relationship can be terminated by either party with a notice period of two weeks
+be terminated.
+
+§ 4 Remuneration
+(1) During the probationary period, the employee will receive annual gross remuneration of EUR 76,000.
+This is paid out in 12 equal monthly installments.
+(2) After the end of the probationary period, the remuneration increases automatically to EUR 80,000 per year.
+(3) After the probationary period, remuneration consists of a fixed basic salary of 90 percent and
+a variable portion of 10 percent of the gross remuneration mentioned under (2).
+(4) The variable remuneration amounting to 10 percent of the annual
+Gross Compensation will be paid subject to the achievement of the target set for the team, in
+which the employee worked, is calculated and paid out on a quarterly basis.
+(5) The non-cash payment of the monthly fee must be made in good time so that the receipt of payment
+the employee's bank account no later than the penultimate bank day of the month. Of the
+The payment date may differ due to a voluntary (general) company agreement
+to be determined.
+(6) The variable remuneration is due on the last day of the month following a quarter.
+(7) The payment of both the fixed and the variable remuneration is made cashless by bank transfer
+to an account to be notified to the employer. The employee is obliged to any change
+of the account details to be announced immediately. Delays in salary payments due to
+non-communication of new bank details are not at the expense of the employer.
+(8) After 18 months from the end of the probationary period, the employee is entitled to a
+Discussion with the employer about his prospects - in particular about whether and when a
+Increase in remuneration to 115 percent can be achieved in accordance with clause (1.). Becomes
+If this goal is not achieved, the employee is entitled to a corresponding annual interview.
+
+§ 5 travel expenses
+(1) For this purpose, reference is made to the travel expenses guideline in the employee handbook.
+§ 6 working hours
+(1) The regular weekly working time is 40 hours.
+(2) The employee is obliged to work reasonable overtime or
+To work overtime within the framework of up to 10 percent of the regular weekly working hours.
+(3) The decision as to whether overtime that is not already included in the regular remuneration of the
+Employees are compensated by time off in lieu or in money is at the discretion
+of the employer. It is also at the discretion of the employer, the times when the
+Compensatory time off is granted, to be determined in accordance with this clause.
+(4) Claims for compensation for overtime for a month are valid within 60 days
+make. Otherwise the claims expire. The compensation - in time or money - is due until the end
+of the month following the assertion.
+
+(5) The employee is permitted to carry out the work outside of the business premises of the
+employer and outside the business premises of clients. This is with each
+to be agreed with the manager in advance. However, attendance is compulsory for
+Employer set deadlines.
+(6) The employee is obliged to list the work he has done weekly and in the
+enter the data system of the employer.
+§ 7 Work Results
+(1) All work results provided by the employee are due to the employer and go
+subject to the provisions contained below in this section into the exclusive
+property of the employer.
+(2) Insofar as the work results are subject to copyright protection, the employee grants this
+Employer the exclusive, perpetual, transferable and unrestricted in all respects
+right of use for all types of use known now or in the future. On their enumeration
+mutually waived. The right of use also includes the right to grant sublicenses
+without the employee's consent. It is agreed that the employer has the right
+to change the work results without restriction and in every conceivable way and in the same way the
+To publish or exploit the change, insofar as the change does not distort the
+work that violates the legitimate interests of the employee. The same applies
+any legal successors. The above rights of use exist after termination
+of the employment relationship indefinitely. For the treatment of copyrights
+Computer programs find the legal regulations in Sections 69a to 69g of the Copyright Act
+supplementary application.
+(3) The employee will not make use of any right to have the car named.
+(4) Claims for remuneration for work results are generally settled with the remuneration for work;
+a right of the employee to an adjustment of remuneration or the payment of a further one
+There is no remuneration for the rights of use granted, unless mandatory laws stipulate otherwise
+dictate otherwise.
+(5) Rights of use for the employee outside of his work performance and/or outside of the
+Works/programs developed in the employer’s field of activity during working hours are the responsibility of the employer
+offer immediately. In order to be included in operational use, a separate one is required
+Agreement. The use of working time and resources for such developments is only after
+prior consent of the employer.
+(6) The employee undertakes to inform the employer of any and all of them for the duration of the
+immediately in writing to report any invention made during the employment relationship. For the treatment of
+Inventions and technical suggestions for improvement are subject to the provisions of the law
+Employee inventions in the currently valid version.
+(7) In the event that industrial property rights are acquired for the employer at home and abroad, the
+Employees are obliged to cooperate as necessary.
+
+§ 8 Vacation
+(1) The holiday entitlement is 30 working days per calendar year.
+(2) The employee plans and applies for his vacation in good time. The employee must withdraw from
+Allow employers to approve leave. The employer can accept a vacation request from the
+Reject the employee if there are urgent operational reasons or vacation requests from others
+Workers who deserve priority from a social point of view come first.
+(3) The employee agrees that the data for the period from December 24 to December 1
+January of the following year working days are used for a company holiday
+will.
+The employee agrees that all bridge days are due to nationwide public holidays
+arise when vacation days have to be taken.
+(4) The legal treatment of vacation is otherwise based on the provisions of the
+Federal Vacation Act.
+
+§ 9 Inability to work and continued payment of remuneration in the event of illness
+(1) The employee is obliged to inform the employer immediately of any hindrance to work
+to share. As far as this is possible, he must also state the probable duration.
+(2) If the inability to work due to illness lasts longer than two calendar days, the
+Employees a medical certificate of the existence of incapacity for work and their
+expected duration at the latest on the following working day. At one over the
+illness beyond the specified period is a follow-up certificate within another
+three days after the previous certificate of incapacity for work expired.
+(3) If the employee is unable to work due to illness through no fault of his own, he is entitled to
+Continued payment of wages for a period of six weeks according to the statutory
+provisions. The employer is entitled to withhold the continued payment of remuneration for as long as
+until the certificate of incapacity for work is received.
+
+§ 10 Confidentiality
+(1) The employee undertakes to keep track of all operational matters arising under or from
+become aware of the reason for their activity in the company, during the duration of the employment relationship
+and to maintain silence even after leaving.
+A data protection declaration is signed by the employee separately from the employment contract.
+(2) Upon termination of the employment relationship, all operational documents and those prepared
+issue transcripts or copies to the employer.
+
+
+Section 11 Secondary Employment
+Any secondary employment that is paid or that impairs the employment relationship is only permitted with the consent of the
+employer permitted. Before taking up secondary employment, the employee is obliged to
+notify the employer. He must provide the employer with information about all facts in this regard
+grant that it needs to examine the question of impairment.
+
+§ 12 contractual penalty
+In the event of culpable non-commencement of work, breach of contract, in particular non-compliance
+the agreed notice period or early termination due to culpable breach of contract
+
+conduct, the employee undertakes to pay the employer a contractual penalty in the amount of a gross
+monthly fee to be paid.
+
+Section 13 Seizure of wages and salaries, assignment of earned income
+(1) The assignment as well as the pledging of remuneration claims are without the consent of the
+employer excluded.
+(2) In the case of wage and salary garnishments, the employee pays to the employer for each garnishment
+Compensation for his expenses for processing the seizure a lump sum of EUR
+20.00.
+
+§ 14 Termination of employment
+(1) The employment relationship ends at the end of the month in which the employee leaves the statutory
+reached the normal retirement age.
+(2) The employment relationship can be terminated with a notice period of three months to the end of the quarter
+will.
+(3) The extension of the notice period is based on the statutory provisions. The agreed
+The notice period applies to both the employer and the employee.
+(4) The termination must be in writing. The cancellation of this contract also requires the written form.
+
+§ 15 Forfeiture of Claims, Expiry Periods
+All claims from the employment relationship must be paid within a period of three months after they are due
+Text form can be asserted. If this is not done, these claims expire.
+If the service provider rejects the claim in text form or does not declare this within a
+month after the assertion of the claim, it expires if it is not claimed within three months
+is asserted in court after the rejection or after the end of the one-month period.
+
+The limitation period does not apply: to liability based on intent, to damage resulting from the violation of the
+life, body or health or for claims of the employee by operation of law of this
+Deadline has been withdrawn (e.g. AEntG, MiLoG, BetrVG, TVG).
+
+§ 16 Contract changes and partial nullity
+Subsidiary agreements, changes and additions to this contract must be in writing. Are single
+Provisions of this contract are ineffective, this does not affect the effectiveness of the remaining ones
+provisions of this contract.
+
+Frankfurt, September 27, 2022............ ....................... ........................................
+Frank Oberste-Dommes
+Managing Director of Labor Digital GmbH
+
+.................................................. .............
+Edward Kvanka
+Managing Director of Labor Digital GmbH

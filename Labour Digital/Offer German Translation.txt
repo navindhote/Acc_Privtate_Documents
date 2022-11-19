@@ -1,0 +1,185 @@
+Arbeitsvertrag
+Zwischen der
+Labour Digital GmbH
+Wiesenhüttenplatz 25
+D – 60329 Frankfurt am Main
+- Arbeitgeber -
+und
+Herrn
+Navin Ajit Dhote
+Xxx
+Riga, Lettland
+- Arbeitnehmer -
+wird folgendes vereinbart:
+
+§ 1 Rechtlicher Rahmen und Arbeitsort
+(1) Das Arbeitsverhältnis beginnt am 01.11.2022.
+(2) Der Arbeitsort ist Frankfurt am Main. Der Arbeitnehmer kann bei Bedarf auch an anderen Standorten
+der Firma oder bei Kunden an anderen Standorten eingesetzt werden und ist im Zusammenhang mit
+der Ausführung ihrer Tätigkeit zu Dienstreisen im Inland und ins Ausland verpflichtet.
+
+§ 2 Tätigkeit
+(1) Der Arbeitnehmer wird als Senior Full Stack Developer eingestellt und für die folgende Arbeiten
+eingesetzt:
+• Entwurf und Entwicklung von Masken, Datenbanken und Businesslogik
+• Entwicklung von Integration insb. via Web-Services (u.a. SOAP)
+• Entwurf, Entwicklung und Anpassung von Software gemäß den Anforderungen
+der Kunden von Labour Digital
+• Prüfungen und Tests der Konzepte und der entwickelten Software
+(2) Der Arbeitnehmer verpflichtet sich, auch andere gleichwertige und zumutbare Arbeiten auszuführen,
+die nicht mit einer Minderung der Arbeitsvergütung verbunden sind.
+
+§ 3 Vertragslaufzeit
+Das Arbeitsverhältnis wird auf unbestimmte Zeit geschlossen. Die ersten sechs Monate gelten als Probezeit.
+Während dieser Zeit kann das Arbeitsverhältnis von beiden Parteien mit einer Frist von zwei Wochen
+gekündigt werden.
+
+§ 4 Vergütung
+(1) Der Arbeitnehmer erhält in der Probezeit eine jährliche Bruttovergütung in Höhe von 76.000,- Euro.
+Diese wird anteilig in 12 gleichen monatlichen Raten ausgezahlt.
+(2) Nach Ablauf der Probezeit erhöht sich die Vergütung automatisch auf jährlich 80.000,- Euro.
+(3) Nach der Probezeit setzt sich die Vergütung aus einem fixen Grundgehalt in Höhe von 90 Prozent und
+einem variablen Anteil von 10 Prozent der unter (2) genannten Bruttovergütung zusammen.
+(4) Die variable Vergütung in Höhe von 10 Prozent der unter Ziffer (2) genannten jährlichen
+Bruttovergütung wird unter der Voraussetzung des Erreichens des dem Team vorgegebenen Ziels, in
+dem die Arbeitnehmerin tätig war, quartalsweise berechnet und ausgezahlt.
+(5) Die unbare Auszahlung des Monatsentgelts muss so rechtzeitig erfolgen, dass der Zahlungseingang auf
+dem Bankkonto des Beschäftigten spätestens am vorletzten Banktag des Monats erfolgt. Der
+Auszahlungstermin kann durch freiwillige (Gesamt-)Betriebsvereinbarung betrieblich abweichend
+bestimmt werden.
+(6) Die variable Vergütung ist am Letzten des einem Quartal folgenden Monats fällig.
+(7) Die Zahlung sowohl der fixen als auch der variablen Vergütung erfolgt bargeldlos durch Überweisung
+auf ein dem Arbeitgeber bekannt zu gebendes Konto. Der Arbeitnehmer ist verpflichtet, jede Änderung
+der Kontoverbindungen unverzüglich bekannt zu geben. Verzögerungen der Gehaltsauszahlung, die auf
+eine Nichtmitteilung einer neuen Bankverbindung zurückgehen, fallen nicht zu Lasten des Arbeitgebers.
+(8) Der Arbeitnehmer hat nach Ablauf von 18 Monaten nach dem Ende der Probezeit Anspruch auf ein
+Gespräch mit dem Arbeitgeber über seine Perspektiven – insbesondere darüber, ob und wann eine
+Erhöhung der Vergütung nach Maßgabe von Ziffer (1.) auf 115 Prozent erreicht werden kann. Wird
+dieses Ziel nicht erreicht, hat der Arbeitnehmer Anspruch auf ein entsprechendes jährliches Gespräch.
+
+(5) Dem Arbeitnehmer ist es gestattet, die Arbeitsleistung auch außerhalb der Betriebsstätten des
+Arbeitgebers und außerhalb der Betriebsstätten von Auftraggebern zu erbringen. Dieses ist jeweils mit
+der Führungskraft im Voraus zu vereinbaren. Eine Anwesenheitspflicht besteht allerdings für vom
+Arbeitgeber festgelegte Termine.
+(6) Der Arbeitnehmer ist verpflichtet, die von ihm geleistete Arbeit wöchentlich aufzulisten und in das
+Datensystem des Arbeitgebers einzutragen.
+§ 7 Arbeitsergebnisse
+(1) Sämtliche von dem Arbeitnehmer erbrachten Arbeitsergebnisse stehen dem Arbeitgeber zu und gehen
+vorbehaltlich der nachfolgend in diesem Abschnitt enthaltenen Regelungen in das ausschließliche
+Eigentum des Arbeitgebers über.
+(2) Soweit den Arbeitsergebnissen Urheberrechtsschutz zukommt, räumt der Arbeitnehmer dem
+Arbeitgeber das ausschließliche, unbefristete, übertragbare und in jeder Hinsicht unbeschränkte
+Nutzungsrecht für alle jetzt oder in Zukunft bekannten Nutzungsarten ein. Auf deren Aufzählung wird
+einvernehmlich verzichtet. Das Nutzungsrecht schließt auch das Recht zur Erteilung von Unterlizenzen
+ohne die Zustimmung des Arbeitnehmers ein. Es wird vereinbart, dass der Arbeitgeber das Recht hat,
+die Arbeitsergebnisse unbeschränkt und in jeder denkbaren Weise zu ändern und in gleicher Weise die
+Änderung zu veröffentlichen bzw. zu verwerten, soweit durch die Änderung keine Entstellung des
+Werkes erfolgt, die gegen die berechtigten Interessen des Arbeitnehmers verstößt. Das Gleiche gilt für
+etwaige Rechtsnachfolger. Die vorstehend genannten Nutzungsrechte bestehen über die Beendigung
+des Arbeitsverhältnisses hinaus zeitlich unbegrenzt fort. Für die Behandlung von Urheberrechten an
+Computerprogrammen finden die gesetzlichen Regelungen in den §§ 69a bis 69g Urheberrechtsgesetz
+ergänzend Anwendung.
+(3) Der Arbeitnehmer wird von einem etwaigen Recht auf Autorennennung keinen Gebrauch machen.
+(4) Vergütungsansprüche für Arbeitsergebnisse sind grundsätzlich mit der Arbeitsvergütung abgegolten;
+ein Anspruch des Arbeitnehmers auf eine Anpassung der Vergütung oder die Zahlung einer weiteren
+Vergütung für die eingeräumten Nutzungsrechte besteht nicht, soweit nicht zwingende Gesetze etwas
+anderes vorschreiben.
+(5) Nutzungsrechte für von dem Arbeitnehmer außerhalb seiner Arbeitsleistung und/oder außerhalb der
+Arbeitszeit entwickelte Werke/Programme im Tätigkeitsfeld des Arbeitgebers sind dem Arbeitgeber
+unverzüglich anzubieten. Zur Einbeziehung in die betriebliche Nutzung bedarf es einer gesonderten
+Vereinbarung. Die Nutzung von Arbeitszeit und Betriebsmitteln für solche Entwicklungen ist nur nach
+vorheriger Zustimmung des Arbeitgebers zulässig.
+(6) Der Arbeitnehmer verpflichtet sich, dem Arbeitgeber jede von ihm während der Dauer des
+Arbeitsverhältnisses gemachte Erfindung unverzüglich schriftlich zu melden. Für die Behandlung von
+Erfindungen und technischen Verbesserungsvorschlägen gelten die Vorschriften des Gesetzes über
+Arbeitnehmererfindungen in der jeweils gültigen Fassung.
+(7) Für den Fall, dass Schutzrechte im In- und Ausland für den Arbeitgeber erworben werden, ist der
+Arbeitnehmer zur notwendigen Mitwirkung verpflichtet.
+
+§ 8 Urlaub
+(1) Der Urlaubsanspruch beträgt 30 Arbeitstage im Kalenderjahr.
+(2) Der Arbeitnehmer plant und beantragt rechtzeitig seinen Urlaub. Der Arbeitnehmer muss sich vom
+Arbeitgeber den Urlaub genehmigen lassen. Der Arbeitgeber kann einen Urlaubswunsch des
+Arbeitnehmers dann ablehnen, wenn dringende betriebliche Gründe oder Urlaubswünsche anderer
+Arbeitnehmer, die unter sozialen Gesichtspunkten Vorrang verdienen, vorgehen.
+(3) Der Arbeitnehmer ist damit einverstanden, dass die auf den Zeitraum vom 24. Dezember bis zum 01.
+Januar des darauffolgenden Jahres entfallenden Arbeitstage für einen Betriebsurlaub verwendet
+werden.
+Der Arbeitnehmer ist damit einverstanden, dass alle Brückentage die auf Grund bundesweiter Feiertage
+entstehen, als Urlaubstage genommen werden müssen.
+(4) Die rechtliche Behandlung des Urlaubs richtet sich im Übrigen nach den Bestimmungen des
+Bundesurlaubsgesetzes.
+
+§ 9 Arbeitsverhinderung und Vergütungsfortzahlung im Krankheitsfall
+(1) Der Arbeitnehmer ist dazu verpflichtet, dem Arbeitgeber jede Arbeitsverhinderung unverzüglich
+mitzuteilen. Soweit dies möglich ist, hat er dabei auch die voraussichtliche Dauer anzugeben.
+(2) Dauert die Arbeitsunfähigkeit infolge einer Krankheit länger als zwei Kalendertage, hat der
+Arbeitnehmer eine ärztliche Bescheinigung über das Bestehen der Arbeitsunfähigkeit sowie deren
+voraussichtliche Dauer spätestens an dem darauffolgenden Arbeitstag vorzulegen. Bei einer über den
+angegebenen Zeitraum hinausgehenden Erkrankung ist eine Folgebescheinigung innerhalb weiterer
+drei Tage seit Ablauf der vorangegangenen Arbeitsunfähigkeitsbescheinigung einzureichen.
+(3) Ist der Arbeitnehmer infolge unverschuldeter Krankheit arbeitsunfähig, so besteht Anspruch auf
+Fortzahlung der Arbeitsvergütung bis zur Dauer von sechs Wochen nach den gesetzlichen
+Bestimmungen. Der Arbeitgeber ist berechtigt, die Vergütungsfortzahlung so lange zurückzubehalten,
+bis die Arbeitsunfähigkeitsbescheinigung eingeht.
+
+§ 10 Verschwiegenheitspflicht
+(1) Der Arbeitnehmer verpflichtet sich, über alle betrieblichen Angelegenheiten, die im Rahmen oder aus
+Anlass ihrer Tätigkeit in der Firma zur Kenntnis gelangen, während der Dauer des Arbeitsverhältnisses
+und auch nach Ausscheiden, Stillschweigen zu bewahren.
+Eine Datenschutzerklärung wird separat vom Arbeitsvertrag von dem Arbeitnehmer unterschrieben.
+(2) Bei Beendigung des Anstellungsverhältnisses sind alle betrieblichen Unterlagen sowie angefertigte
+Abschriften oder Kopien an den Arbeitgeber herauszugeben.
+
+§ 11 Nebentätigkeit
+Jede entgeltliche oder das Arbeitsverhältnis beeinträchtigende Nebentätigkeit ist nur mit Zustimmung des
+Arbeitgebers zulässig. Der Arbeitnehmer ist vor Aufnahme einer Nebentätigkeit dazu verpflichtet, diese
+dem Arbeitgeber anzuzeigen. Er hat dem Arbeitgeber diesbezüglich Auskunft über alle Tatsachen zu
+erteilen, die dieser benötigt, um die Frage der Beeinträchtigung zu prüfen.
+
+§ 12 Vertragsstrafe
+Im Falle der schuldhaften Nichtaufnahme der Arbeit, des Vertragsbruchs, insbesondere der Nichteinhaltung
+der vereinbarten Kündigungsfrist oder der vorzeitigen Kündigung wegen schuldhaften vertragswidrigen
+
+Verhaltens verpflichtet sich der Arbeitnehmer, dem Arbeitgeber eine Vertragsstrafe in Höhe einer Brutto-
+Monatsvergütung zu zahlen.
+
+§ 13 Lohn- und Gehaltspfändung, Abtretung des Arbeitseinkommens
+(1) Die Abtretung sowie die Verpfändung von Vergütungsansprüchen sind ohne Zustimmung des
+Arbeitgebers ausgeschlossen.
+(2) Bei Lohn- und Gehaltspfändungen zahlt die/der Arbeitnehmer/in pro Pfändung an den Arbeitgeber zur
+Abgeltung von dessen Aufwendungen für die Bearbeitung der Pfändung einen Pauschalbetrag von EUR
+20,00.
+
+§ 14 Beendigung des Arbeitsverhältnisses
+(1) Das Arbeitsverhältnis endet mit Ablauf des Monats, in dem der Arbeitnehmer das gesetzliche
+Regelrenteneintrittsalter erreicht.
+(2) Das Arbeitsverhältnis kann mit einer Kündigungsfrist von drei Monaten zum Quartalsende gekündigt
+werden.
+(3) Die Verlängerung der Kündigungsfrist richtet sich nach den gesetzlichen Vorschriften. Die vereinbarte
+Kündigungsfrist gilt sowohl für den Arbeitgeber als auch für den Arbeitnehmer.
+(4) Die Kündigung bedarf der Schriftform. Die Aufhebung dieses Vertrages bedarf ebenfalls der Schriftform.
+
+§ 15 Verwirkung von Ansprüchen, Verfallsfristen
+Alle Ansprüche aus dem Arbeitsverhältnis müssen innerhalb einer Frist von drei Monaten nach Fälligkeit in
+Textform geltend gemacht werden. Erfolgt dies nicht, verfallen diese Ansprüche.
+Lehnt der Leistungspflichtige den Anspruch in Textform ab oder erklärt er sich hierzu nicht innerhalb eines
+Monats nach Geltendmachung des Anspruchs, so verfällt dieser, wenn er nicht innerhalb von drei Monaten
+nach der Ablehnung oder nach dem Ablauf der Monatsfrist gerichtlich geltend gemacht wird.
+
+Die Ausschlussfrist gilt nicht: für die Haftung aufgrund Vorsatzes, für Schäden aus der Verletzung des
+Lebens, des Körpers oder der Gesundheit oder für Ansprüche des Arbeitnehmers, die kraft Gesetzes dieser
+Ausschlussfrist entzogen sind (zB AEntG, MiLoG, BetrVG, TVG).
+
+§ 16 Vertragsänderungen und Teilnichtigkeit
+Nebenabreden, Änderungen und Ergänzungen dieses Vertrages bedürfen der Schriftform. Sind einzelne
+Bestimmungen dieses Vertrages unwirksam, so berührt diese nicht die Wirksamkeit der übrigen
+Regelungen dieses Vertrages.
+
+Frankfurt, den .........27.09.2022............ ...............................................................
+Frank Oberste-Dommes
+Geschäftsführer Labour Digital GmbH
+
+...............................................................
+Eduard Kvanka
+Geschäftsführer Labour Digital GmbH
